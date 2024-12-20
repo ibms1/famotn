@@ -1,9 +1,11 @@
 streamlit
 torch
 torchvision
-opencv-python-headless==4.5.5.64
 numpy
-matplotlib
+opencv-python
+pillow
+scikit-image
+requests
+pyyaml
 imageio
 imageio-ffmpeg
-scikit-image
