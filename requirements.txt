@@ -9,3 +9,4 @@ requests
 pyyaml
 imageio
 imageio-ffmpeg
+cv2
