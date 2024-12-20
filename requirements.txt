@@ -10,3 +10,5 @@ pyyaml
 imageio
 imageio-ffmpeg
 cv2
+opencv-python-headless
+PyOpenGL
